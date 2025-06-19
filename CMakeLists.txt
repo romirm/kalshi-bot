@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.20)
 
-project(template LANGUAGES CXX)
+project(poker_engine LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
@@ -21,13 +21,13 @@ find_package(fmt REQUIRED)
 
 SET(PACKAGES fmt::fmt)
 
-add_executable(template ${MAIN} ${HEADERS})
-add_executable(template_tests ${TESTS} ${HEADERS})
-add_executable(template_debug ${MAIN} ${HEADERS})
+add_executable(poker_engine ${MAIN} ${HEADERS})
+add_executable(poker_engine_tests ${TESTS} ${HEADERS})
+add_executable(poker_engine_debug ${MAIN} ${HEADERS})
 
-SET(RELEASE_TARGETS template)
-SET(TEST_TARGETS template_tests)
-SET(DEBUG_TARGETS template_debug)
+SET(RELEASE_TARGETS poker_engine)
+SET(TEST_TARGETS poker_engine_tests)
+SET(DEBUG_TARGETS poker_engine_debug)
 
 foreach (target ${TEST_TARGETS})
     target_link_libraries(${target} PRIVATE gtest::gtest)
