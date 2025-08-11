@@ -1,3 +1,3 @@
 # poker-engine
 
-poker engine from scratch
+poker engine
