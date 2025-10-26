@@ -1,3 +1,3 @@
-# poker-engine
+# kalshi bot
 
-poker engine
+kalshi trading bot
