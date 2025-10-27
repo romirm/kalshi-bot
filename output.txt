@@ -1,0 +1,1032 @@
+Balance: {'balance': 0, 'portfolio_value': 0, 'updated_ts': 1761588455}
+WebSocket connection opened.
+Received message: {"type":"subscribed","id":1,"msg":{"channel":"ticker","sid":1}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"82306cf0-0e86-4045-9707-e99fbe543af9","market_ticker":"KXXRPD-25OCT2715-T2.9199","price":0,"yes_bid":52,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.5200","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105068}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"ef0cc821-24d9-4c53-b246-c5e1eefe835c","market_ticker":"KXROGANGUEST-26JAN01-THO","price":0,"yes_bid":30,"yes_ask":95,"price_dollars":"0.0000","yes_bid_dollars":"0.3000","yes_ask_dollars":"0.9500","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105121}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"2c1f841b-4780-4912-99ee-ba40413190eb","market_ticker":"KXAVAX-25OCT2715-T38.4999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105109}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"a03ffea0-39cc-40db-b758-acecdb212442","market_ticker":"KXLTCD-25OCT2715-T76.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105118}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"2b8cdc58-8af7-439b-b4f1-ea3d058ddbd3","market_ticker":"KXAVAXD-25OCT2715-T17.4999","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105043}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"25499604-7788-4da2-99de-a65284b92fb8","market_ticker":"KXXLM-25OCT2715-B0.335","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105047}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"bbacd2fa-86c9-4649-8b2e-24e379042644","market_ticker":"KXLTCD-25OCT2715-T82.9999","price":1,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0100","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":16,"open_interest":14,"dollar_volume":8,"dollar_open_interest":7,"ts":1761588456,"Clock":1052105062}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"2cab5784-1fed-41cf-8377-77cf3eb1a7c3","market_ticker":"KXDOGED-25OCT2715-T0.0849999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105068}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"ea83a5c7-f6b3-49a4-835e-bd129e569188","market_ticker":"KXLTCD-25OCT2715-T78.9999","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105099}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"0227be57-b163-47ca-8c0f-8f8f17bfe1ea","market_ticker":"KXROGANGUEST-26JAN01-TG","price":99,"yes_bid":19,"yes_ask":24,"price_dollars":"0.9900","yes_bid_dollars":"0.1900","yes_ask_dollars":"0.2400","volume":41892,"open_interest":16556,"dollar_volume":20946,"dollar_open_interest":8278,"ts":1761588456,"Clock":1052105046}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"be274d75-642a-4c67-aee4-ebce75292c20","market_ticker":"KXXLM-25OCT2715-B0.315","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105040}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"2210b925-bae3-4b7d-a5dc-a41a8a689745","market_ticker":"KXDOGED-25OCT2715-T0.2049999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105068}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"216c2a8a-adcb-4efc-8fbc-00513953e30d","market_ticker":"KXDOGE-25OCT2715-B0.077","price":0,"yes_bid":71,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.7100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105068}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"87aa80ff-a27a-4ef3-adb7-454854d838c3","market_ticker":"KXLTCD-25OCT2715-T79.9999","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105092}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"28a08cea-9187-4377-8591-b7a997fcf99d","market_ticker":"KXAVAXD-25OCT2715-T24.4999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105120}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"3ef8a1d4-f597-4a89-a915-9bc8149d1003","market_ticker":"KXAVAXD-25OCT2715-T2.4999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105063}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c93ab4ec-4ecd-4951-8640-736cd02b5a90","market_ticker":"KXAVAXD-25OCT2715-T11.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105064}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"f165bc72-9539-4363-b450-88a33e9c0b9d","market_ticker":"KXAVAXD-25OCT2715-T25.4999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105065}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"cb519fdf-c1d5-4664-8164-6c10dc895859","market_ticker":"KXXLM-25OCT2715-B0.285","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105089}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"ad7946ff-ed07-41dd-9afd-0e0f9e0c0833","market_ticker":"KXAVAXD-25OCT2715-T16.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105072}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"57a7e8af-add0-46f9-8315-1640894f64a4","market_ticker":"KXBTCD-25OCT2715-T118499.99","price":4,"yes_bid":1,"yes_ask":4,"price_dollars":"0.0400","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.0400","volume":16,"open_interest":16,"dollar_volume":8,"dollar_open_interest":8,"ts":1761588456,"Clock":1052105090}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"3efb57e4-f942-4f53-9245-164bcc245430","market_ticker":"KXAVAXD-25OCT2715-T23.9999","price":1,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0100","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":20,"open_interest":20,"dollar_volume":10,"dollar_open_interest":10,"ts":1761588456,"Clock":1052105115}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"fb93236a-b999-491d-976e-fd15333de3a3","market_ticker":"KXAVAXD-25OCT2715-T15.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105116}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"47303cba-a72d-48aa-8354-a0f33c467cb2","market_ticker":"KXAVAXD-25OCT2715-T15.4999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105107}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"3ea635fa-3ea3-4df0-88c5-aec21a94fc17","market_ticker":"KXLTCD-25OCT2715-T85.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105032}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"3dcfed71-d26a-4467-9ff1-6d0aaea53a2d","market_ticker":"KXXLM-25OCT2715-B0.635","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105068}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"41f48eca-76b3-4d22-b1b4-8ca28b7c3f36","market_ticker":"KXHEISMAN-26-ASIM","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105068}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"5748c826-3cee-4d1c-91b0-e72fc356abd6","market_ticker":"KXBTC-25OCT2715-B116625","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105068}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"25578ada-1fa0-468f-ac53-0d8a769086d8","market_ticker":"KXLTCD-25OCT2715-T81.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105074}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"00ed0af7-c658-4f2f-bbb3-993728ca95f7","market_ticker":"KXXLM-25OCT2715-B0.265","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105114}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"4d3aba78-e847-4f3d-8c25-755c253d6dfd","market_ticker":"KXXLM-25OCT2715-B0.275","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105097}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"5dcfff95-8fd7-48a9-a60c-5c543d0f6d3b","market_ticker":"KXAVAX-25OCT2715-B7.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105112}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"1e69dd9f-ad11-4bbc-8d0e-dc144fbc4d28","market_ticker":"KXAVAXD-25OCT2715-T10.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105101}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"093a9583-1e12-4be8-a202-eeea6fc29f67","market_ticker":"KXXLM-25OCT2715-B0.325","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105044}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"26ef976b-2eb7-4e28-b24a-cd493dd39baa","market_ticker":"KXAVAXD-25OCT2715-T11.4999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105061}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"2b495a5d-fa89-4771-825d-f53b50f68357","market_ticker":"KXBTCD-25OCT2715-T105249.99","price":95,"yes_bid":95,"yes_ask":99,"price_dollars":"0.9500","yes_bid_dollars":"0.9500","yes_ask_dollars":"0.9900","volume":16,"open_interest":16,"dollar_volume":8,"dollar_open_interest":8,"ts":1761588456,"Clock":1052105068}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"279583dd-e91b-4110-965a-f86bc3b2dd1a","market_ticker":"KXAVAXD-25OCT2715-T10.4999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105073}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"690f27b9-dc96-4dc2-bbee-5ee3e3a7e12f","market_ticker":"KXWTI-25OCT27-B55.5","price":0,"yes_bid":55,"yes_ask":98,"price_dollars":"0.0000","yes_bid_dollars":"0.5500","yes_ask_dollars":"0.9800","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105056}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"fb9362c0-3b19-44b1-b9ec-43bae33fee3a","market_ticker":"KXBTCD-25OCT2715-T118749.99","price":4,"yes_bid":1,"yes_ask":4,"price_dollars":"0.0400","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.0400","volume":116,"open_interest":116,"dollar_volume":58,"dollar_open_interest":58,"ts":1761588456,"Clock":1052105071}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"a0d275e9-88ec-41fe-b790-6d6e1bea6e7e","market_ticker":"KXSHIBA-25OCT2715-B0.0000182","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105068}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"3d2c2f6f-0646-4686-b22d-e56f3758c79c","market_ticker":"KXXLM-25OCT2715-B0.305","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105068}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c7ef3b8d-2f0a-4d5b-9421-a4ff2793e3ef","market_ticker":"KXLTCD-25OCT2715-T84.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105045}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"1751c088-c210-4191-b15d-41b78c5c806e","market_ticker":"KXAVAX-25OCT2715-B8.75","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105057}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"e4f35010-69e1-491c-8385-b80b6457949a","market_ticker":"KXLTCD-25OCT2715-T83.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105052}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"01223f01-5445-496f-aacc-18d122dc371d","market_ticker":"KXAVAXD-25OCT2715-T16.4999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105098}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c72ab2a1-a088-4e8d-972d-6dd7f714e63a","market_ticker":"KXBTCD-25OCT2715-T104249.99","price":37,"yes_bid":37,"yes_ask":100,"price_dollars":"0.3700","yes_bid_dollars":"0.3700","yes_ask_dollars":"1.0000","volume":6,"open_interest":6,"dollar_volume":3,"dollar_open_interest":3,"ts":1761588456,"Clock":1052105068}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"1e6ebed4-1619-4c6c-8303-a95e3be0f7a8","market_ticker":"KXBTC-25OCT2715-B106125","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105068}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"28c3de6d-0b99-4395-bd4b-ddc0de20a4d8","market_ticker":"KXLTCD-25OCT2715-T80.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588456,"Clock":1052105082}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"bf86be10-b427-450d-9694-d03d8c922b79","market_ticker":"KXLTCD-25OCT2715-T77.9999","price":2,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0200","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":10,"open_interest":10,"dollar_volume":5,"dollar_open_interest":5,"ts":1761588456,"Clock":1052105104}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"e4d92479-78b1-45b1-ad80-2de7236fb7f7","market_ticker":"KXLTCD-25OCT2715-T71.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105167}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"553940a4-b035-4cc0-aa4d-f82b1cbc52b4","market_ticker":"KXXLM-25OCT2715-B0.235","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105174}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"3cfb405b-afa7-4724-b7ab-68e56ad7bac8","market_ticker":"KXXLM-25OCT2715-B0.205","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105230}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"690f27b9-dc96-4dc2-bbee-5ee3e3a7e12f","market_ticker":"KXWTI-25OCT27-B55.5","price":55,"yes_bid":55,"yes_ask":93,"price_dollars":"0.5500","yes_bid_dollars":"0.5500","yes_ask_dollars":"0.9300","volume":40,"open_interest":40,"dollar_volume":20,"dollar_open_interest":20,"ts":1761588457,"Clock":1052105233}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"55ab942e-b303-43a8-aedb-a2697f40febb","market_ticker":"KXXLM-25OCT2715-B0.255","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105190}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"84e8b7f6-3e0b-4863-acc0-143556baa17a","market_ticker":"KXAVAXD-25OCT2715-T14.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105188}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"999ab511-5f85-4f23-9cc1-653b0c7242cd","market_ticker":"KXBTCD-25OCT2715-T118249.99","price":4,"yes_bid":1,"yes_ask":4,"price_dollars":"0.0400","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.0400","volume":24,"open_interest":24,"dollar_volume":12,"dollar_open_interest":12,"ts":1761588457,"Clock":1052105227}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"32b9a24a-880c-4a22-8ce2-9b343c1b53bc","market_ticker":"KXDOGED-25OCT2715-T0.1349999","price":1,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0100","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":14,"open_interest":14,"dollar_volume":7,"dollar_open_interest":7,"ts":1761588457,"Clock":1052105164}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"4d3aba78-e847-4f3d-8c25-755c253d6dfd","market_ticker":"KXXLM-25OCT2715-B0.275","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105134}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"2455c6a0-2e04-41fd-8dcc-f34a5a25d982","market_ticker":"KXLTCD-25OCT2715-T74.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105141}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"b10ae0e0-91f9-422d-9e78-38d98385eedf","market_ticker":"KXAVAXD-25OCT2715-T22.4999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105206}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"3bc09fda-143b-498b-b7df-a71b6cd306a9","market_ticker":"KXAVAX-25OCT2715-B6.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105186}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"fb93236a-b999-491d-976e-fd15333de3a3","market_ticker":"KXAVAXD-25OCT2715-T15.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105130}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"4525e8d6-c835-4f67-a19a-ee8abcd46009","market_ticker":"KXXLM-25OCT2715-B0.245","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105187}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"070082aa-be00-4694-9e3a-668ea3139727","market_ticker":"KXXLM-25OCT2715-B0.215","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105215}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"117ef879-4895-4d76-b664-4020f4f3d42a","market_ticker":"KXAVAXD-25OCT2715-T22.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105165}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"57a7e8af-add0-46f9-8315-1640894f64a4","market_ticker":"KXBTCD-25OCT2715-T118499.99","price":4,"yes_bid":2,"yes_ask":4,"price_dollars":"0.0400","yes_bid_dollars":"0.0200","yes_ask_dollars":"0.0400","volume":16,"open_interest":16,"dollar_volume":8,"dollar_open_interest":8,"ts":1761588457,"Clock":1052105153}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"00ed0af7-c658-4f2f-bbb3-993728ca95f7","market_ticker":"KXXLM-25OCT2715-B0.265","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105156}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"5f30bc40-6083-4c6e-9099-f428197a38a1","market_ticker":"KXLTCD-25OCT2715-T70.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105178}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"8b6e07b1-ae71-419b-b033-d9c9c0c86cd1","market_ticker":"KXLTCD-25OCT2715-T67.9999","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105209}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"2c1f841b-4780-4912-99ee-ba40413190eb","market_ticker":"KXAVAX-25OCT2715-T38.4999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105201}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"6faca4b6-62a2-4a0d-8feb-3407defa4786","market_ticker":"KXLTCD-25OCT2715-T66.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105222}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"ef0cc821-24d9-4c53-b246-c5e1eefe835c","market_ticker":"KXROGANGUEST-26JAN01-THO","price":0,"yes_bid":30,"yes_ask":34,"price_dollars":"0.0000","yes_bid_dollars":"0.3000","yes_ask_dollars":"0.3400","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105140}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"78431b21-385e-400a-b7a5-f752b7cdb95f","market_ticker":"KXLTCD-25OCT2715-T75.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105131}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"a4ef0b04-9b51-4197-969e-2a806b907ea9","market_ticker":"KXLTCD-25OCT2715-T73.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105150}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"279583dd-e91b-4110-965a-f86bc3b2dd1a","market_ticker":"KXAVAXD-25OCT2715-T10.4999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105152}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"ff3b98f7-0971-487d-b69c-2b3a524ecc68","market_ticker":"KXHEISMAN-26-BMOR","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105164}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"94a5ba7f-41ec-4b5d-831c-60af5c4dba9f","market_ticker":"KXSHIBA-25OCT2715-B-0.0000033","price":1,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0100","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":4,"open_interest":4,"dollar_volume":2,"dollar_open_interest":2,"ts":1761588457,"Clock":1052105164}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c355b55a-163a-4c26-a4d8-abda842c3531","market_ticker":"KXBTC-25OCT2715-B112875","price":0,"yes_bid":34,"yes_ask":83,"price_dollars":"0.0000","yes_bid_dollars":"0.3400","yes_ask_dollars":"0.8300","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105164}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"d7920713-936e-41ae-80ca-707cb56986ba","market_ticker":"KXAVAXD-25OCT2715-T1.4999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105220}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"7e6010ac-f689-4e52-a903-8a081035c49b","market_ticker":"KXLTCD-25OCT2715-T69.9999","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105189}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"ea1913f4-a223-4962-83d3-cceac62f5a3c","market_ticker":"KXLTCD-25OCT2715-T68.9999","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105196}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"5dcfff95-8fd7-48a9-a60c-5c543d0f6d3b","market_ticker":"KXAVAX-25OCT2715-B7.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105127}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"830a1118-eba5-43ac-9576-148b6d82d66e","market_ticker":"KXBTC-25OCT2715-B113875","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105164}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"d9c6ec13-8e22-4132-9216-e987ee6b9798","market_ticker":"KXAVAX-25OCT2715-B5.75","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105217}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"34785b64-f569-414b-b41d-e517a64b3371","market_ticker":"KXAVAXD-25OCT2715-T21.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105224}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"cd68540e-a7c3-474e-904f-0efcb27495f5","market_ticker":"KXROGANGUEST-26JAN01-VR","price":99,"yes_bid":26,"yes_ask":100,"price_dollars":"0.9900","yes_bid_dollars":"0.2600","yes_ask_dollars":"1.0000","volume":39370,"open_interest":8406,"dollar_volume":19685,"dollar_open_interest":4203,"ts":1761588457,"Clock":1052105232}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c7ef50e4-674f-4b0c-9202-c9a51f2688b6","market_ticker":"KXXRP-25OCT2715-T3.3399","price":0,"yes_bid":23,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.2300","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105221}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"47303cba-a72d-48aa-8354-a0f33c467cb2","market_ticker":"KXAVAXD-25OCT2715-T15.4999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105159}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"481e3f47-6c20-4d37-9de6-ae1ce9c062c4","market_ticker":"KXAVAX-25OCT2715-B6.75","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105158}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"bd0e196e-fc42-4395-91bd-1f035c70db91","market_ticker":"KXLTCD-25OCT2715-T72.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105160}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"9cdd07bd-f535-4114-8061-1f98a2b29916","market_ticker":"KXXLM-25OCT2715-B0.225","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105199}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"425d3fb1-bb54-4f17-b43c-a04b97258259","market_ticker":"KXAVAXD-25OCT2715-T14.4999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588457,"Clock":1052105212}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"1f5a74e9-eab4-46ef-995e-3b899bf5148f","market_ticker":"KXAVAXD-25OCT2715-T21.4999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105335}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"070082aa-be00-4694-9e3a-668ea3139727","market_ticker":"KXXLM-25OCT2715-B0.215","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105253}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"9f06de20-7b3d-4a30-ba94-38f96004826c","market_ticker":"KXSHIBAD-25OCT2715-T0.000025999","price":98,"yes_bid":0,"yes_ask":100,"price_dollars":"0.9800","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":6,"open_interest":6,"dollar_volume":3,"dollar_open_interest":3,"ts":1761588458,"Clock":1052105289}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"5dcfff95-8fd7-48a9-a60c-5c543d0f6d3b","market_ticker":"KXAVAX-25OCT2715-B7.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105334}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"8d675adc-33ac-4646-b08d-b9ee74ff3e1a","market_ticker":"KXLTCD-25OCT2715-T130.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105349}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"20cc4156-b055-4a4f-b92c-a5948ba55793","market_ticker":"KXBTCD-25OCT2715-T117749.99","price":1,"yes_bid":1,"yes_ask":12,"price_dollars":"0.0100","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.1200","volume":8,"open_interest":6,"dollar_volume":4,"dollar_open_interest":3,"ts":1761588458,"Clock":1052105346}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"425d3fb1-bb54-4f17-b43c-a04b97258259","market_ticker":"KXAVAXD-25OCT2715-T14.4999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105267}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"41ad569b-33b6-4ff2-bcb0-d1c4ea223d27","market_ticker":"KXAVAX-25OCT2715-B4.75","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105298}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"0e26bb6a-6b54-4226-a7b1-5d60e20329ac","market_ticker":"KXHEISMAN-26-BPRI","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105289}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"88a3aa44-dc40-4f51-a609-c7711b3517b7","market_ticker":"KXBTC-25OCT2715-B115375","price":0,"yes_bid":38,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.3800","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105289}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"f2c6966f-8c6a-43dc-9be2-12672e18519b","market_ticker":"KXXLM-25OCT2715-B-0.045","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105289}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"37139cf2-22de-42da-9825-c258f8509132","market_ticker":"KXAVAXD-25OCT2715-T12.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105348}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"88e510ad-8024-40a9-a71c-1e87cd3db765","market_ticker":"KXLTCD-25OCT2715-T61.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105293}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"bfaf2b5c-1f47-4c18-9870-656d99ae24af","market_ticker":"KXAVAX-25OCT2715-B4.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105324}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c7ef50e4-674f-4b0c-9202-c9a51f2688b6","market_ticker":"KXXRP-25OCT2715-T3.3399","price":0,"yes_bid":23,"yes_ask":94,"price_dollars":"0.0000","yes_bid_dollars":"0.2300","yes_ask_dollars":"0.9400","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105284}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"999ab511-5f85-4f23-9cc1-653b0c7242cd","market_ticker":"KXBTCD-25OCT2715-T118249.99","price":4,"yes_bid":1,"yes_ask":4,"price_dollars":"0.0400","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.0400","volume":24,"open_interest":24,"dollar_volume":12,"dollar_open_interest":12,"ts":1761588458,"Clock":1052105242}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c1fcdad0-27d4-4961-80bb-2bebd9a063cc","market_ticker":"KXAVAX-25OCT2715-B5.25","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105264}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"620b047b-c301-4a00-b374-bcd001f0e098","market_ticker":"KXLTCD-25OCT2715-T63.9999","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105270}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"1751c088-c210-4191-b15d-41b78c5c806e","market_ticker":"KXAVAX-25OCT2715-B8.75","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105325}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"910ec835-1660-4323-89a5-ec75477cb471","market_ticker":"KXAVAXD-25OCT2715-T13.4999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105327}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"cd68540e-a7c3-474e-904f-0efcb27495f5","market_ticker":"KXROGANGUEST-26JAN01-VR","price":99,"yes_bid":26,"yes_ask":28,"price_dollars":"0.9900","yes_bid_dollars":"0.2600","yes_ask_dollars":"0.2800","volume":39370,"open_interest":8406,"dollar_volume":19685,"dollar_open_interest":4203,"ts":1761588458,"Clock":1052105285}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"53d0155e-a55e-4503-9422-75e603e17b6d","market_ticker":"KXBTCD-25OCT2715-T117999.99","price":4,"yes_bid":1,"yes_ask":4,"price_dollars":"0.0400","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.0400","volume":222,"open_interest":222,"dollar_volume":111,"dollar_open_interest":111,"ts":1761588458,"Clock":1052105337}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"6ac9160c-615c-4534-8c9c-73f7a95cdc67","market_ticker":"KXLTCD-25OCT2715-T59.9999","price":1,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0100","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":6,"open_interest":6,"dollar_volume":3,"dollar_open_interest":3,"ts":1761588458,"Clock":1052105309}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"cd6ca4d9-c301-442c-99ea-e2f7a4544eb3","market_ticker":"KXLTCD-25OCT2715-T132.9999","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105330}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"a8956833-8ec0-4035-bbb1-75b8a4e45130","market_ticker":"KXAVAXD-25OCT2715-T19.4999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105347}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"70353618-463d-44f7-801c-bcf2792b66ba","market_ticker":"KXLTCD-25OCT2715-T65.9999","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105236}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"3cfb405b-afa7-4724-b7ab-68e56ad7bac8","market_ticker":"KXXLM-25OCT2715-B0.205","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105248}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"a0622603-25a4-4ca9-b824-015d5160a0ff","market_ticker":"KXLTCD-25OCT2715-T64.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105251}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"553940a4-b035-4cc0-aa4d-f82b1cbc52b4","market_ticker":"KXXLM-25OCT2715-B0.235","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105291}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"cc4705f0-318e-45c5-b2c5-b8022aa33753","market_ticker":"KXXLM-25OCT2715-B0.165","price":99,"yes_bid":1,"yes_ask":99,"price_dollars":"0.9900","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":12,"open_interest":12,"dollar_volume":6,"dollar_open_interest":6,"ts":1761588458,"Clock":1052105340}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"2e180a21-7ab6-439c-855d-30a4c8591270","market_ticker":"KXROGANGUEST-26JAN01-ZOH","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105350}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"100c090b-f4e9-4e84-bcc1-a74735fbe6f3","market_ticker":"KXAVAXD-25OCT2715-T13.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105302}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"9cdd07bd-f535-4114-8061-1f98a2b29916","market_ticker":"KXXLM-25OCT2715-B0.225","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105262}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"a1ba643c-8565-4a2f-ace7-51e9a7c6ddb7","market_ticker":"KXAVAXD-25OCT2715-T20.4999","price":1,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0100","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":4,"open_interest":4,"dollar_volume":2,"dollar_open_interest":2,"ts":1761588458,"Clock":1052105331}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"e8bf6d40-f05a-45e5-b59f-20c09b942d6d","market_ticker":"KXXLM-25OCT2715-B0.195","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105329}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"7c0e368b-4ee2-4bcd-b606-d1e7b56b4512","market_ticker":"KXXLM-25OCT2715-B0.175","price":99,"yes_bid":0,"yes_ask":99,"price_dollars":"0.9900","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":8,"open_interest":8,"dollar_volume":4,"dollar_open_interest":4,"ts":1761588458,"Clock":1052105310}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"0b2c7fc8-937f-4c65-9916-7a24561e362f","market_ticker":"KXLTCD-25OCT2715-T131.9999","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105338}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"6e319752-e16b-4cfa-af9b-0451f0ab9df3","market_ticker":"KXAVAXD-25OCT2715-T20.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105333}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"f5abec43-5a8b-4925-9d41-be96260946b8","market_ticker":"KXXRPD-25OCT2715-T2.0599","price":0,"yes_bid":91,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.9100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105289}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"31e2bd11-061c-4bf1-b9a6-1c036a62d496","market_ticker":"KXAVAXD-25OCT2715-T1.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105328}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"684957f7-1b6f-4d4f-b52c-3a311bf5d934","market_ticker":"KXXLM-25OCT2715-B0.185","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105321}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"bd259eec-a44c-4c6d-8dbe-b6dcc88e565b","market_ticker":"KXAVAXD-25OCT2715-T12.4999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105341}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"568739cc-4d0c-4e3c-aad0-352ff93fde14","market_ticker":"KXLTCD-25OCT2715-T62.9999","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105283}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"aedf0573-d1a7-4d31-893f-4be828c41d1a","market_ticker":"KXDOGE-25OCT2715-B0.212","price":0,"yes_bid":2,"yes_ask":64,"price_dollars":"0.0000","yes_bid_dollars":"0.0200","yes_ask_dollars":"0.6400","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105289}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"9c6360d1-9d24-4e86-b68b-a9d5ccdf6a26","market_ticker":"KXLTCD-25OCT2715-T60.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105303}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"4b70419c-469d-4aa7-95e9-4077bd149c73","market_ticker":"KXLTCD-25OCT2715-T133.9999","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105317}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"481e3f47-6c20-4d37-9de6-ae1ce9c062c4","market_ticker":"KXAVAX-25OCT2715-B6.75","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105343}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"b4307670-5c12-4ab9-98f7-a75c7e5d03aa","market_ticker":"KXAVAX-25OCT2715-B38.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588458,"Clock":1052105345}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"2e180a21-7ab6-439c-855d-30a4c8591270","market_ticker":"KXROGANGUEST-26JAN01-ZOH","price":0,"yes_bid":14,"yes_ask":18,"price_dollars":"0.0000","yes_bid_dollars":"0.1400","yes_ask_dollars":"0.1800","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105400}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"bd259eec-a44c-4c6d-8dbe-b6dcc88e565b","market_ticker":"KXAVAXD-25OCT2715-T12.4999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105401}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"ee3782c2-0847-4bf5-8ecf-399dd029a992","market_ticker":"KXLTCD-25OCT2715-T129.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105363}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"9be57f11-4c5a-4ed4-91f8-2604651c7edd","market_ticker":"KXLTCD-25OCT2715-T127.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105389}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"727d7c69-2b3e-4ee9-8323-7f43a0bc90db","market_ticker":"KXLTCD-25OCT2715-T125.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105410}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"26ef976b-2eb7-4e28-b24a-cd493dd39baa","market_ticker":"KXAVAXD-25OCT2715-T11.4999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105450}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"fe78bca7-2042-422c-ac92-662750296fe7","market_ticker":"KXAVAX-25OCT2715-B3.75","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105429}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"97c95289-edb1-4533-8453-72f234843adc","market_ticker":"KXLTCD-25OCT2715-T124.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105423}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"3bc09fda-143b-498b-b7df-a71b6cd306a9","market_ticker":"KXAVAX-25OCT2715-B6.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105447}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"690f27b9-dc96-4dc2-bbee-5ee3e3a7e12f","market_ticker":"KXWTI-25OCT27-B55.5","price":55,"yes_bid":55,"yes_ask":99,"price_dollars":"0.5500","yes_bid_dollars":"0.5500","yes_ask_dollars":"0.9900","volume":60,"open_interest":60,"dollar_volume":30,"dollar_open_interest":30,"ts":1761588459,"Clock":1052105404}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"8a1ea6f3-8187-41b5-8b62-3e1089ec6b04","market_ticker":"KXXLM-25OCT2715-B0.155","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105415}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"34785b64-f569-414b-b41d-e517a64b3371","market_ticker":"KXAVAXD-25OCT2715-T21.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105387}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c57eebe3-0885-40aa-8085-b27f17e10363","market_ticker":"KXDOGE-25OCT2715-B0.122","price":0,"yes_bid":1,"yes_ask":43,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.4300","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105396}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"55836bcb-d7a4-4381-82b0-23480deccf2c","market_ticker":"KXDOGED-25OCT2715-T0.3499999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105396}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"fed13b01-b7ac-4f86-8e92-fa5d3e22664e","market_ticker":"KXAVAX-25OCT2715-B37.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105446}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"7c0e368b-4ee2-4bcd-b606-d1e7b56b4512","market_ticker":"KXXLM-25OCT2715-B0.175","price":99,"yes_bid":0,"yes_ask":99,"price_dollars":"0.9900","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":8,"open_interest":8,"dollar_volume":4,"dollar_open_interest":4,"ts":1761588459,"Clock":1052105355}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"20cc4156-b055-4a4f-b92c-a5948ba55793","market_ticker":"KXBTCD-25OCT2715-T117749.99","price":44,"yes_bid":1,"yes_ask":44,"price_dollars":"0.4400","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.4400","volume":108,"open_interest":106,"dollar_volume":54,"dollar_open_interest":53,"ts":1761588459,"Clock":1052105432}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"b4cceabb-c938-4292-bf94-68d1fe207780","market_ticker":"KXLTCD-25OCT2715-T128.9999","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105374}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"cc4705f0-318e-45c5-b2c5-b8022aa33753","market_ticker":"KXXLM-25OCT2715-B0.165","price":99,"yes_bid":1,"yes_ask":99,"price_dollars":"0.9900","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":12,"open_interest":12,"dollar_volume":6,"dollar_open_interest":6,"ts":1761588459,"Clock":1052105392}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c306fdd5-f991-424e-a915-8b4b38d0782e","market_ticker":"KXHEISMAN-26-BUND","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105396}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"91128476-3816-4fa4-8ae5-edfcb0a82b5c","market_ticker":"KXXLM-25OCT2715-B0.145","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105439}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"a8956833-8ec0-4035-bbb1-75b8a4e45130","market_ticker":"KXAVAXD-25OCT2715-T19.4999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105442}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c93ab4ec-4ecd-4951-8640-736cd02b5a90","market_ticker":"KXAVAXD-25OCT2715-T11.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105433}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"868498ef-6572-4e01-9129-c799697df8bd","market_ticker":"KXAVAX-25OCT2715-B37.75","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105398}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"3f9e492d-e08c-4120-a62f-9b5c86da665c","market_ticker":"KXDOGE-25OCT2715-B0.022","price":0,"yes_bid":75,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.7500","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105396}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c3c0a0c0-cd02-4d0f-b5f2-936796288969","market_ticker":"KXLTCD-25OCT2715-T126.9999","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105402}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"481e3f47-6c20-4d37-9de6-ae1ce9c062c4","market_ticker":"KXAVAX-25OCT2715-B6.75","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105405}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"5dcfff95-8fd7-48a9-a60c-5c543d0f6d3b","market_ticker":"KXAVAX-25OCT2715-B7.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105407}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"b786240d-b404-492a-bd77-c591b2996e37","market_ticker":"KXAVAXD-25OCT2715-T18.4999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105412}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"d9c6ec13-8e22-4132-9216-e987ee6b9798","market_ticker":"KXAVAX-25OCT2715-B5.75","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105413}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"75f7afba-bb90-4d9c-aaf2-08bab1cc4aa8","market_ticker":"KXBTCD-25OCT2715-T117499.99","price":4,"yes_bid":1,"yes_ask":4,"price_dollars":"0.0400","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.0400","volume":16,"open_interest":16,"dollar_volume":8,"dollar_open_interest":8,"ts":1761588459,"Clock":1052105449}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"4170a970-d410-4fc9-824f-6abb0c8466ba","market_ticker":"KXXLM-25OCT2715-B0.125","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105448}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"37139cf2-22de-42da-9825-c258f8509132","market_ticker":"KXAVAXD-25OCT2715-T12.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105362}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"6c4b330c-c8f7-4794-8f8d-0e4928b0f0b6","market_ticker":"KXXLM-25OCT2715-B0.135","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105430}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"345af634-6780-4c7c-897a-4f39e61caae4","market_ticker":"KXLTCD-25OCT2715-T121.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105451}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"b4307670-5c12-4ab9-98f7-a75c7e5d03aa","market_ticker":"KXAVAX-25OCT2715-B38.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105357}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"1b3f7032-587e-4c05-9dd8-bd80b11bad45","market_ticker":"KXLTCD-25OCT2715-T123.9999","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105434}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"ff18b3b7-731e-4997-85bc-b7b72aced575","market_ticker":"KXLTCD-25OCT2715-T122.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105440}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"621d534c-4a3f-4c90-8645-a443091e2970","market_ticker":"KXLTCD-25OCT2715-T98.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105396}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c7ef50e4-674f-4b0c-9202-c9a51f2688b6","market_ticker":"KXXRP-25OCT2715-T3.3399","price":0,"yes_bid":23,"yes_ask":94,"price_dollars":"0.0000","yes_bid_dollars":"0.2300","yes_ask_dollars":"0.9400","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105441}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"1e69dd9f-ad11-4bbc-8d0e-dc144fbc4d28","market_ticker":"KXAVAXD-25OCT2715-T10.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588459,"Clock":1052105444}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"26ef976b-2eb7-4e28-b24a-cd493dd39baa","market_ticker":"KXAVAXD-25OCT2715-T11.4999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105458}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"db064b5d-f86f-4a29-85eb-81a9359eb025","market_ticker":"KXLTCD-25OCT2715-T119.9999","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105468}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"41ad569b-33b6-4ff2-bcb0-d1c4ea223d27","market_ticker":"KXAVAX-25OCT2715-B4.75","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105508}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"bfdca002-e471-4dd5-a75a-8c9e156f7f4d","market_ticker":"KXLTCD-25OCT2715-T114.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105540}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"01223f01-5445-496f-aacc-18d122dc371d","market_ticker":"KXAVAXD-25OCT2715-T16.4999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105545}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"5c177edd-b596-4023-83a5-ea4fc7305cb1","market_ticker":"KXLTCD-25OCT2715-T120.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105459}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"279583dd-e91b-4110-965a-f86bc3b2dd1a","market_ticker":"KXAVAXD-25OCT2715-T10.4999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105538}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"14f75c30-9e86-4949-a747-f5cee2724649","market_ticker":"KXSHIBAD-25OCT2715-T0.000010999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105500}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"14defb27-db6d-418b-b72b-b72ea2e079ba","market_ticker":"KXBTCD-25OCT2715-T103749.99","price":95,"yes_bid":95,"yes_ask":99,"price_dollars":"0.9500","yes_bid_dollars":"0.9500","yes_ask_dollars":"0.9900","volume":22,"open_interest":22,"dollar_volume":11,"dollar_open_interest":11,"ts":1761588460,"Clock":1052105500}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"370850b0-c541-4c94-8577-1ac5a8a0bc91","market_ticker":"KXBTCD-25OCT2715-T102999.99","price":95,"yes_bid":95,"yes_ask":100,"price_dollars":"0.9500","yes_bid_dollars":"0.9500","yes_ask_dollars":"1.0000","volume":24,"open_interest":24,"dollar_volume":12,"dollar_open_interest":12,"ts":1761588460,"Clock":1052105500}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"72c78ace-fbf3-4dc1-9776-2cfdb453a551","market_ticker":"KXAVAX-25OCT2715-B36.25","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105534}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"8bb90a31-d7f4-4ad9-9352-3db6531adc26","market_ticker":"KXAVAXD-25OCT2715-T17.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105527}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"94dfce3d-bf2d-4157-aa49-4ec67b6dadf4","market_ticker":"KXRTANNIVERSARY-45","price":0,"yes_bid":79,"yes_ask":87,"price_dollars":"0.0000","yes_bid_dollars":"0.7900","yes_ask_dollars":"0.8700","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105541}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"4170a970-d410-4fc9-824f-6abb0c8466ba","market_ticker":"KXXLM-25OCT2715-B0.125","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105505}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"95a40a63-2251-484f-98eb-2d3a1af3285b","market_ticker":"KXAVAX-25OCT2715-T2.0000","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105563}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"b4307670-5c12-4ab9-98f7-a75c7e5d03aa","market_ticker":"KXAVAX-25OCT2715-B38.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105569}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c7ef50e4-674f-4b0c-9202-c9a51f2688b6","market_ticker":"KXXRP-25OCT2715-T3.3399","price":0,"yes_bid":23,"yes_ask":94,"price_dollars":"0.0000","yes_bid_dollars":"0.2300","yes_ask_dollars":"0.9400","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105460}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"27ad962a-0493-4501-bc15-03b353cdfb04","market_ticker":"KXXLM-25OCT2715-B0.115","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105502}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"b786240d-b404-492a-bd77-c591b2996e37","market_ticker":"KXAVAXD-25OCT2715-T18.4999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105533}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"eb6c482f-ff12-4cdc-99dc-2c8cac4d93cd","market_ticker":"KXLTCD-25OCT2715-T113.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105550}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"67ba3f67-92f7-4b8b-bbab-7c159b5e7584","market_ticker":"KXLTCD-25OCT2715-T112.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105560}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"91d3e8d0-0093-42e4-9289-7bfea3d12ed1","market_ticker":"KXAVAX-25OCT2715-B35.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105571}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"095bdc2b-26ba-44bf-9403-0f3b7735613f","market_ticker":"KXXLM-25OCT2715-B0.065","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105574}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"ad7946ff-ed07-41dd-9afd-0e0f9e0c0833","market_ticker":"KXAVAXD-25OCT2715-T16.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105473}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"bb3f2d8f-b6d1-4b1b-9696-b1877ec63743","market_ticker":"KXLTCD-25OCT2715-T118.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105482}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"eb577403-2a74-4355-aa4d-53bd04602b01","market_ticker":"KXSHIBA-25OCT2715-B0.0000192","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105500}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"2c1f841b-4780-4912-99ee-ba40413190eb","market_ticker":"KXAVAX-25OCT2715-T38.4999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105565}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"fb93236a-b999-491d-976e-fd15333de3a3","market_ticker":"KXAVAXD-25OCT2715-T15.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105558}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"7a9d0d34-4ac8-473a-8405-90598b933b0a","market_ticker":"KXXLM-25OCT2715-B0.075","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105568}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"49adaf17-c99f-4666-80ff-056f4e477d6a","market_ticker":"KXLTCD-25OCT2715-T117.9999","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105496}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c61adca2-99a0-42f0-983a-21557e8cf623","market_ticker":"KXSHIBA-25OCT2715-B0.0000037","price":0,"yes_bid":2,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0200","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105500}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"e05fc25e-09a4-462c-839f-dfa40088539c","market_ticker":"KXBTC-25OCT2715-B117625","price":99,"yes_bid":47,"yes_ask":99,"price_dollars":"0.9900","yes_bid_dollars":"0.4700","yes_ask_dollars":"0.9900","volume":2,"open_interest":2,"dollar_volume":1,"dollar_open_interest":1,"ts":1761588460,"Clock":1052105500}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"8adb0037-1e4b-4ecc-a8cb-9d6a8775c309","market_ticker":"KXDOGE-25OCT2715-B0.102","price":0,"yes_bid":84,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.8400","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105500}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"315c01a0-fa9e-4fad-85fd-5fc566d32f56","market_ticker":"KXLTCD-25OCT2715-T116.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105507}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"77969d7b-88e9-444b-99b4-8b33b5bdcd5a","market_ticker":"KXXLM-25OCT2715-B0.095","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105547}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"5fb575bc-9997-4aa7-af10-4542e8007a03","market_ticker":"KXBTCD-25OCT2715-T117249.99","price":3,"yes_bid":1,"yes_ask":3,"price_dollars":"0.0300","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.0300","volume":34,"open_interest":34,"dollar_volume":17,"dollar_open_interest":17,"ts":1761588460,"Clock":1052105551}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"1e69dd9f-ad11-4bbc-8d0e-dc144fbc4d28","market_ticker":"KXAVAXD-25OCT2715-T10.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105493}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c1fcdad0-27d4-4961-80bb-2bebd9a063cc","market_ticker":"KXAVAX-25OCT2715-B5.25","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105553}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"6c4b330c-c8f7-4794-8f8d-0e4928b0f0b6","market_ticker":"KXXLM-25OCT2715-B0.135","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105461}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"d9c6ec13-8e22-4132-9216-e987ee6b9798","market_ticker":"KXAVAX-25OCT2715-B5.75","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105494}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"04b52157-97c1-4690-afb0-0f4fa0c5e224","market_ticker":"KXDOGE-25OCT2715-B0.222","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105500}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"1da800ee-cb8e-4622-9e58-0dab86122c64","market_ticker":"KXLTCD-25OCT2715-T111.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105567}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"7b20cb07-17bd-40d4-877b-2a20f9741acf","market_ticker":"KXLTCD-25OCT2715-T110.9999","price":1,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0100","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":2,"open_interest":2,"dollar_volume":1,"dollar_open_interest":1,"ts":1761588460,"Clock":1052105573}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"fed13b01-b7ac-4f86-8e92-fa5d3e22664e","market_ticker":"KXAVAX-25OCT2715-B37.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105456}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"d8c99cf4-5fda-4337-8c2f-4f22686ef713","market_ticker":"KXAVAX-25OCT2715-B36.75","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105489}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"de2ce9bc-366b-4184-a406-74863c0ef871","market_ticker":"KXXLM-25OCT2715-B0.105","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105549}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"e433b953-c846-4b4f-8c91-798c1bf7e7d8","market_ticker":"KXDOGED-25OCT2715-T0.1399999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105500}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"75f7afba-bb90-4d9c-aaf2-08bab1cc4aa8","market_ticker":"KXBTCD-25OCT2715-T117499.99","price":4,"yes_bid":0,"yes_ask":4,"price_dollars":"0.0400","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.0400","volume":416,"open_interest":416,"dollar_volume":208,"dollar_open_interest":208,"ts":1761588460,"Clock":1052105525}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"4c3c8877-bbd0-47ae-915c-138cc6f34fb0","market_ticker":"KXLTCD-25OCT2715-T115.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105523}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"bfaf2b5c-1f47-4c18-9870-656d99ae24af","market_ticker":"KXAVAX-25OCT2715-B4.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588460,"Clock":1052105561}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"01223f01-5445-496f-aacc-18d122dc371d","market_ticker":"KXAVAXD-25OCT2715-T16.4999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105583}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"5fb575bc-9997-4aa7-af10-4542e8007a03","market_ticker":"KXBTCD-25OCT2715-T117249.99","price":3,"yes_bid":0,"yes_ask":3,"price_dollars":"0.0300","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.0300","volume":234,"open_interest":234,"dollar_volume":117,"dollar_open_interest":117,"ts":1761588461,"Clock":1052105610}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"1be0b2d0-69df-4c5d-b9d8-cab53c0d0891","market_ticker":"KXBTCD-25OCT2715-T116999.99","price":3,"yes_bid":1,"yes_ask":3,"price_dollars":"0.0300","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.0300","volume":24,"open_interest":24,"dollar_volume":12,"dollar_open_interest":12,"ts":1761588461,"Clock":1052105638}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"b4307670-5c12-4ab9-98f7-a75c7e5d03aa","market_ticker":"KXAVAX-25OCT2715-B38.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105669}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"72c78ace-fbf3-4dc1-9776-2cfdb453a551","market_ticker":"KXAVAX-25OCT2715-B36.25","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105688}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"e04dcdfc-3b62-4629-ab3f-51b0d49e9ea0","market_ticker":"KXLTCD-25OCT2715-T101.9999","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105691}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"868498ef-6572-4e01-9129-c799697df8bd","market_ticker":"KXAVAX-25OCT2715-B37.75","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105666}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"9e21bb38-d04d-451b-9cf6-c2ac385dbb2b","market_ticker":"KXRTANNIVERSARY-60","price":0,"yes_bid":31,"yes_ask":41,"price_dollars":"0.0000","yes_bid_dollars":"0.3100","yes_ask_dollars":"0.4100","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105693}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"e2d3a62a-cae4-4b95-8fe1-edf18b7993c5","market_ticker":"KXLTCD-25OCT2715-T107.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105602}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"9d4b8c88-0a7f-40aa-9781-90b49f5b7608","market_ticker":"KXHEISMAN-26-CBEC","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105609}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"b771bbe1-69df-4f38-9396-41520388b5d3","market_ticker":"KXSHIBAD-25OCT2715-T0.000015999","price":99,"yes_bid":0,"yes_ask":99,"price_dollars":"0.9900","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":18,"open_interest":18,"dollar_volume":9,"dollar_open_interest":9,"ts":1761588461,"Clock":1052105609}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"d8c99cf4-5fda-4337-8c2f-4f22686ef713","market_ticker":"KXAVAX-25OCT2715-B36.75","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105615}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"1ea060c3-68c8-4e0e-b5aa-d097385d0e9d","market_ticker":"KXLTCD-25OCT2715-T105.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105631}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"1751c088-c210-4191-b15d-41b78c5c806e","market_ticker":"KXAVAX-25OCT2715-B8.75","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105670}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c607ce9b-b2be-4b2c-82cd-d0cefca88c1a","market_ticker":"KXAVAX-25OCT2715-B33.75","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105689}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"425d3fb1-bb54-4f17-b43c-a04b97258259","market_ticker":"KXAVAXD-25OCT2715-T14.4999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105695}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"2fa3b56d-7e7a-43d9-b37d-5dc01cb03635","market_ticker":"KXLTCD-25OCT2715-T109.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105582}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"7a9d0d34-4ac8-473a-8405-90598b933b0a","market_ticker":"KXXLM-25OCT2715-B0.075","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105607}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"da2fcdd9-04ae-45a4-ba06-d2c2a7286350","market_ticker":"KXLTCD-25OCT2715-T106.9999","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105618}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"95a40a63-2251-484f-98eb-2d3a1af3285b","market_ticker":"KXAVAX-25OCT2715-T2.0000","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105591}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"baff65ef-9da3-41cb-b4fa-1c26740f99e5","market_ticker":"KXAVAX-25OCT2715-B34.75","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105614}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"84e8b7f6-3e0b-4863-acc0-143556baa17a","market_ticker":"KXAVAXD-25OCT2715-T14.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105606}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"fd36f950-f118-4081-831c-c1bd81554b9e","market_ticker":"KXBTC-25OCT2715-B106875","price":0,"yes_bid":15,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.1500","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105609}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"6b8776ea-d199-4d44-9540-152913ab2f29","market_ticker":"KXLTCD-25OCT2715-T89.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105609}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"b46baba3-e90d-4718-a89d-a146539dab89","market_ticker":"KXAVAX-25OCT2715-B9.25","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105676}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"f2c6966f-8c6a-43dc-9be2-12672e18519b","market_ticker":"KXXLM-25OCT2715-B-0.045","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105648}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"91d3e8d0-0093-42e4-9289-7bfea3d12ed1","market_ticker":"KXAVAX-25OCT2715-B35.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105579}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"ad7946ff-ed07-41dd-9afd-0e0f9e0c0833","market_ticker":"KXAVAXD-25OCT2715-T16.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105584}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"fe78bca7-2042-422c-ac92-662750296fe7","market_ticker":"KXAVAX-25OCT2715-B3.75","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105664}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"47303cba-a72d-48aa-8354-a0f33c467cb2","market_ticker":"KXAVAXD-25OCT2715-T15.4999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105656}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"a5d22871-74f7-4a82-9a96-e986ee15d1fb","market_ticker":"KXBTCD-25OCT2715-T109999.99","price":95,"yes_bid":95,"yes_ask":99,"price_dollars":"0.9500","yes_bid_dollars":"0.9500","yes_ask_dollars":"0.9900","volume":14,"open_interest":14,"dollar_volume":7,"dollar_open_interest":7,"ts":1761588461,"Clock":1052105609}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"fb93236a-b999-491d-976e-fd15333de3a3","market_ticker":"KXAVAXD-25OCT2715-T15.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105660}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"def2190a-58ed-4b3d-9a7e-d7c9f1031b5f","market_ticker":"KXLTCD-25OCT2715-T103.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105661}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"fed13b01-b7ac-4f86-8e92-fa5d3e22664e","market_ticker":"KXAVAX-25OCT2715-B37.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105659}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"23131024-1828-483f-8fbe-9e4f966342d7","market_ticker":"KXLTCD-25OCT2715-T104.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105645}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"729bcc43-a376-4098-811f-b6b041ef5cbd","market_ticker":"KXLTCD-25OCT2715-T102.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105677}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"26c02ca6-602a-449b-8f30-ad0d580e46c4","market_ticker":"KXAVAX-25OCT2715-B9.75","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105632}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"953f5e0f-9306-4bfd-be27-0d69a98f6f08","market_ticker":"KXLTCD-25OCT2715-T108.9999","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105592}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"eb204632-6c8e-4256-af04-59b6e9eb9c88","market_ticker":"KXXLM-25OCT2715-B-0.055","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105674}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"44e833f2-5a74-4fc4-867e-53e605ff64f9","market_ticker":"KXAVAX-25OCT2715-B34.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105655}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"d7920713-936e-41ae-80ca-707cb56986ba","market_ticker":"KXAVAXD-25OCT2715-T1.4999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105681}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"095bdc2b-26ba-44bf-9403-0f3b7735613f","market_ticker":"KXXLM-25OCT2715-B0.065","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105600}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"4944d81f-63ec-4322-a663-b4affb59e1e0","market_ticker":"KXXLM-25OCT2715-B0.055","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105682}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"3adaba1d-b45b-4759-8cd4-ba09d97ee2d1","market_ticker":"KXSHIBA-25OCT2715-B-0.0000003","price":1,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0100","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":10,"open_interest":10,"dollar_volume":5,"dollar_open_interest":5,"ts":1761588461,"Clock":1052105609}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"e0549e5d-3c12-4a87-b202-35742dc6182c","market_ticker":"KXXLM-25OCT2715-B0.045","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105672}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"a986e3cf-ff76-40bf-a83a-005514945e76","market_ticker":"KXXLM-25OCT2715-B0.035","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588461,"Clock":1052105696}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"d8c99cf4-5fda-4337-8c2f-4f22686ef713","market_ticker":"KXAVAX-25OCT2715-B36.75","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105720}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"6129487b-2e55-4f68-ad2f-4c13607316af","market_ticker":"KXLTC-25OCT2715-T133.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105721}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"afb9fc50-753a-421a-b628-aca1ec90ed46","market_ticker":"KXXLM-25OCT2715-B0.025","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105737}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"b73e89a0-cda4-4170-8d42-e7bf44635838","market_ticker":"KXBTCD-25OCT2715-T111999.99","price":96,"yes_bid":96,"yes_ask":100,"price_dollars":"0.9600","yes_bid_dollars":"0.9600","yes_ask_dollars":"1.0000","volume":24,"open_interest":24,"dollar_volume":12,"dollar_open_interest":12,"ts":1761588462,"Clock":1052105734}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"568739cc-4d0c-4e3c-aad0-352ff93fde14","market_ticker":"KXLTCD-25OCT2715-T62.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105734}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"910ec835-1660-4323-89a5-ec75477cb471","market_ticker":"KXAVAXD-25OCT2715-T13.4999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105715}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"cf8218ad-2610-4339-9e26-45e7215df58f","market_ticker":"KXLTC-25OCT2715-B96.5","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105762}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"baff65ef-9da3-41cb-b4fa-1c26740f99e5","market_ticker":"KXAVAX-25OCT2715-B34.75","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105767}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"6b017bf6-7141-4f01-ac16-7e07742216d3","market_ticker":"KXRTANNIVERSARY-75","price":0,"yes_bid":4,"yes_ask":58,"price_dollars":"0.0000","yes_bid_dollars":"0.0400","yes_ask_dollars":"0.5800","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105795}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"1751c088-c210-4191-b15d-41b78c5c806e","market_ticker":"KXAVAX-25OCT2715-B8.75","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105712}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"100c090b-f4e9-4e84-bcc1-a74735fbe6f3","market_ticker":"KXAVAXD-25OCT2715-T13.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105747}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"1be0b2d0-69df-4c5d-b9d8-cab53c0d0891","market_ticker":"KXBTCD-25OCT2715-T116999.99","price":3,"yes_bid":1,"yes_ask":3,"price_dollars":"0.0300","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.0300","volume":24,"open_interest":24,"dollar_volume":12,"dollar_open_interest":12,"ts":1761588462,"Clock":1052105719}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"525fec7e-1cdd-4436-af4e-9432c7eea906","market_ticker":"KXLTC-25OCT2715-B99.5","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105731}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"51719036-8876-4690-a2f5-47c2203d096a","market_ticker":"KXBTCD-25OCT2715-T109499.99","price":95,"yes_bid":95,"yes_ask":100,"price_dollars":"0.9500","yes_bid_dollars":"0.9500","yes_ask_dollars":"1.0000","volume":6,"open_interest":6,"dollar_volume":3,"dollar_open_interest":3,"ts":1761588462,"Clock":1052105734}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"91d3e8d0-0093-42e4-9289-7bfea3d12ed1","market_ticker":"KXAVAX-25OCT2715-B35.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105752}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"d8363094-29ac-43bd-80c9-089238fabe4b","market_ticker":"KXXLM-25OCT2715-B-0.015","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105790}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"eaa5e12d-ddb1-46b0-8e39-2a2b467fa5b8","market_ticker":"KXAVAX-25OCT2715-B8.25","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105738}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"41ad569b-33b6-4ff2-bcb0-d1c4ea223d27","market_ticker":"KXAVAX-25OCT2715-B4.75","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105723}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"86f0ce17-30d7-4e87-bea4-ace0f075499d","market_ticker":"KXDOGE-25OCT2715-B0.167","price":0,"yes_bid":89,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.8900","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105734}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"06b5d122-b736-40ae-8bdb-6a55f3f4a73b","market_ticker":"KXAVAX-25OCT2715-B32.75","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105760}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"483d23ce-173d-427c-a859-9a76baeaab5b","market_ticker":"KXXLM-25OCT2715-B-0.025","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105782}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"5dcfff95-8fd7-48a9-a60c-5c543d0f6d3b","market_ticker":"KXAVAX-25OCT2715-B7.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105796}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"f2c6966f-8c6a-43dc-9be2-12672e18519b","market_ticker":"KXXLM-25OCT2715-B-0.045","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105709}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"bfc4ad7c-2041-4d98-bb7c-3bd0dd2cdddd","market_ticker":"KXXLM-25OCT2715-B0.015","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105764}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"29b92161-abb3-4d28-9c20-704f6e314c12","market_ticker":"KXLTC-25OCT2715-B94.5","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105785}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"7c259065-29e3-4269-bcfa-d7d9e01d9f5f","market_ticker":"KXLTC-25OCT2715-B97.5","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105749}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"bfaf2b5c-1f47-4c18-9870-656d99ae24af","market_ticker":"KXAVAX-25OCT2715-B4.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105722}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"1a99f10b-5c6e-4ae9-ad2e-2c8f96803c90","market_ticker":"KXAVAX-25OCT2715-B7.75","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105773}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"6cc6a08e-f3ae-48da-b293-04049cc125fc","market_ticker":"KXDOGED-25OCT2715-T0.2499999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105734}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"435db684-1890-4499-bc5a-f4e0adb3fdab","market_ticker":"KXLTC-25OCT2715-B98.5","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105739}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"37139cf2-22de-42da-9825-c258f8509132","market_ticker":"KXAVAXD-25OCT2715-T12.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105763}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"51d96ecc-292e-4bcc-b0ea-58ab90fd9509","market_ticker":"KXLTC-25OCT2715-B95.5","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105775}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"14905389-d1ab-4c0b-8960-c72464a361ae","market_ticker":"KXAVAX-25OCT2715-B3.25","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105793}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"a95d5127-2810-4438-a750-bbe4b5e1c8fd","market_ticker":"KXLTCD-25OCT2715-T100.9999","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105705}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"425d3fb1-bb54-4f17-b43c-a04b97258259","market_ticker":"KXAVAXD-25OCT2715-T14.4999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105748}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"d7920713-936e-41ae-80ca-707cb56986ba","market_ticker":"KXAVAXD-25OCT2715-T1.4999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105750}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"0c163dd7-92a4-4256-a6d2-59b2d7377f70","market_ticker":"KXHEISMAN-26-CCAR","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105734}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c607ce9b-b2be-4b2c-82cd-d0cefca88c1a","market_ticker":"KXAVAX-25OCT2715-B33.75","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105703}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"61787c87-ac86-4a12-b2d1-020cad6bc68a","market_ticker":"KXLTC-25OCT2715-T61.0000","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105713}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"e0c7c394-2270-4b49-9f0f-c1cc22ac0cdb","market_ticker":"KXXLM-25OCT2715-B-0.035","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105740}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"b6012068-02ac-4455-ab00-b6dcf4abe37c","market_ticker":"KXAVAX-25OCT2715-B33.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105728}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"5b9b47ea-2076-4bac-b7ca-b2602f7d6fe8","market_ticker":"KXBTCD-25OCT2715-T116749.99","price":2,"yes_bid":1,"yes_ask":2,"price_dollars":"0.0200","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.0200","volume":18,"open_interest":18,"dollar_volume":9,"dollar_open_interest":9,"ts":1761588462,"Clock":1052105736}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"be274d75-642a-4c67-aee4-ebce75292c20","market_ticker":"KXXLM-25OCT2715-B0.315","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105734}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"ea95e065-d0cc-4b5d-9cb8-62496c1b3edd","market_ticker":"KXXLM-25OCT2715-B0.625","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105734}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"9e21bb38-d04d-451b-9cf6-c2ac385dbb2b","market_ticker":"KXRTANNIVERSARY-60","price":0,"yes_bid":31,"yes_ask":37,"price_dollars":"0.0000","yes_bid_dollars":"0.3100","yes_ask_dollars":"0.3700","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105702}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"a986e3cf-ff76-40bf-a83a-005514945e76","market_ticker":"KXXLM-25OCT2715-B0.035","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105744}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"84e8b7f6-3e0b-4863-acc0-143556baa17a","market_ticker":"KXAVAXD-25OCT2715-T14.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588462,"Clock":1052105751}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"0bd86f52-fb41-4ee9-8080-f7c3025adccb","market_ticker":"KXBTCD-25OCT2715-T109749.99","price":95,"yes_bid":95,"yes_ask":100,"price_dollars":"0.9500","yes_bid_dollars":"0.9500","yes_ask_dollars":"1.0000","volume":20,"open_interest":20,"dollar_volume":10,"dollar_open_interest":10,"ts":1761588462,"Clock":1052105734}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"1d8bb248-0cea-4425-9c1f-e3895cd3079e","market_ticker":"KXDOGED-25OCT2715-T0.1599999","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"6ac8882a-9120-4eb1-a07d-8f3fa63b3698","market_ticker":"KXDOGE-25OCT2715-B0.147","price":0,"yes_bid":33,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.3300","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"481e3f47-6c20-4d37-9de6-ae1ce9c062c4","market_ticker":"KXAVAX-25OCT2715-B6.75","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105846}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c4b887f8-f29a-4d5a-9e3e-48676b5cfe76","market_ticker":"KXAVAXD-25OCT2715-T7.4999","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"fed13b01-b7ac-4f86-8e92-fa5d3e22664e","market_ticker":"KXAVAX-25OCT2715-B37.25","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"e47eecf8-8a7d-412c-997a-141e9267f0cd","market_ticker":"KXSHIBA-25OCT2715-B0.0000232","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"093a9583-1e12-4be8-a202-eeea6fc29f67","market_ticker":"KXXLM-25OCT2715-B0.325","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"a398e294-b6e2-4c8e-9214-d0c91d75ed94","market_ticker":"KXBTC-25OCT2715-B120125","price":0,"yes_bid":1,"yes_ask":8,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.0800","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"02545611-f3c0-42a7-a8c3-5cedc352986a","market_ticker":"KXXRPD-25OCT2715-T2.0999","price":0,"yes_bid":87,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.8700","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"55836bcb-d7a4-4381-82b0-23480deccf2c","market_ticker":"KXDOGED-25OCT2715-T0.3499999","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"e8a7deac-9cf3-4cfd-82b7-06d09a3bd884","market_ticker":"KXDOGED-25OCT2715-T0.0599999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"4944d81f-63ec-4322-a663-b4affb59e1e0","market_ticker":"KXXLM-25OCT2715-B0.055","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"0b8b409b-3a80-4c8c-979a-0bec6cf75330","market_ticker":"KXBTCD-25OCT2715-T108999.99","price":95,"yes_bid":95,"yes_ask":100,"price_dollars":"0.9500","yes_bid_dollars":"0.9500","yes_ask_dollars":"1.0000","volume":38,"open_interest":38,"dollar_volume":19,"dollar_open_interest":19,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"f806f580-f594-4ca1-98f2-9af7ef341e19","market_ticker":"KXLTC-25OCT2715-B93.5","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105797}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"72d8c43f-873d-4b78-ad44-78b11a6308d6","market_ticker":"KXSHIBAD-25OCT2715-T0.000019499","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"55fbf08b-d62e-4777-9fcf-502c11d7ddc8","market_ticker":"KXLTCD-25OCT2715-T96.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"425d3fb1-bb54-4f17-b43c-a04b97258259","market_ticker":"KXAVAXD-25OCT2715-T14.4999","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"9bed6653-066a-4203-b17c-beceac073dc8","market_ticker":"KXBTC-25OCT2715-T102750","price":0,"yes_bid":1,"yes_ask":12,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.1200","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"d7508e99-937d-4f4a-9588-6e134e273509","market_ticker":"KXBTCD-25OCT2715-T119749.99","price":5,"yes_bid":0,"yes_ask":5,"price_dollars":"0.0500","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.0500","volume":222,"open_interest":222,"dollar_volume":111,"dollar_open_interest":111,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"48ac54ee-95a6-4da2-8220-98843fc2bbb0","market_ticker":"KXXLM-25OCT2715-B-0.005","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105866}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"3a626012-240b-4637-b7a9-8f50cda30692","market_ticker":"KXDOGED-25OCT2715-T0.2849999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105849}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c5b57d44-8966-4904-a3e0-7a7fd1e731bb","market_ticker":"KXBTC-25OCT2715-B110875","price":0,"yes_bid":55,"yes_ask":76,"price_dollars":"0.0000","yes_bid_dollars":"0.5500","yes_ask_dollars":"0.7600","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"cc4705f0-318e-45c5-b2c5-b8022aa33753","market_ticker":"KXXLM-25OCT2715-B0.165","price":99,"yes_bid":1,"yes_ask":100,"price_dollars":"0.9900","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":12,"open_interest":12,"dollar_volume":6,"dollar_open_interest":6,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"b836b428-0d9e-4208-81ef-fd18dd848bba","market_ticker":"KXDOGED-25OCT2715-T0.1799999","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"603837d6-7437-4c1b-8130-82219e98ce25","market_ticker":"KXLTC-25OCT2715-B91.5","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105827}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"42ba47e4-672d-4883-b731-55481cebe8c0","market_ticker":"KXLTC-25OCT2715-B90.5","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"ee3782c2-0847-4bf5-8ecf-399dd029a992","market_ticker":"KXLTCD-25OCT2715-T129.9999","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"cd53476d-5695-4933-b008-caabc300310d","market_ticker":"KXSHIBA-25OCT2715-B0.0000022","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"e706ea07-8b94-47cd-8e89-5c6e1c7b4b35","market_ticker":"KXLTCD-25OCT2715-T99.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"bd259eec-a44c-4c6d-8dbe-b6dcc88e565b","market_ticker":"KXAVAXD-25OCT2715-T12.4999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105872}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"d8363094-29ac-43bd-80c9-089238fabe4b","market_ticker":"KXXLM-25OCT2715-B-0.015","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105830}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c93ab4ec-4ecd-4951-8640-736cd02b5a90","market_ticker":"KXAVAXD-25OCT2715-T11.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105870}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"159d227b-f5db-4b51-a671-2f496debc92d","market_ticker":"KXXRPD-25OCT2715-T2.3799","price":0,"yes_bid":96,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.9600","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"e0850bb3-3590-4f30-a5fc-3244df3ed6f6","market_ticker":"KXXRP-25OCT2715-B2.5499500","price":0,"yes_bid":1,"yes_ask":3,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.0300","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"d892d921-2e54-43d7-b682-90f531346a92","market_ticker":"KXSHIBA-25OCT2715-B0.0000187","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"37139cf2-22de-42da-9825-c258f8509132","market_ticker":"KXAVAXD-25OCT2715-T12.9999","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"91d3e8d0-0093-42e4-9289-7bfea3d12ed1","market_ticker":"KXAVAX-25OCT2715-B35.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105810}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"82a9c695-103e-4bfc-93ab-ba94d59fe5fe","market_ticker":"KXLTC-25OCT2715-B92.5","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105813}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"28e7cb9c-d90e-4511-b790-af517872664f","market_ticker":"KXSHIBA-25OCT2715-B0.0000017","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"baff65ef-9da3-41cb-b4fa-1c26740f99e5","market_ticker":"KXAVAX-25OCT2715-B34.75","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105856}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"25578ada-1fa0-468f-ac53-0d8a769086d8","market_ticker":"KXLTCD-25OCT2715-T81.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"6674058d-7240-4677-b31c-6c61f6c63070","market_ticker":"KXXRP-25OCT2715-B2.7299500","price":0,"yes_bid":81,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.8100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"2b915a15-269c-4f54-8be6-52a71b70e792","market_ticker":"KXLTC-25OCT2715-B105.5","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"f045c123-b2bb-4d55-b6f3-1042605111d8","market_ticker":"KXLTC-25OCT2715-B110.5","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"d9c6ec13-8e22-4132-9216-e987ee6b9798","market_ticker":"KXAVAX-25OCT2715-B5.75","price":1,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0100","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":18,"open_interest":18,"dollar_volume":9,"dollar_open_interest":9,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"1d64e0b2-6839-4de8-849f-9c43001758d6","market_ticker":"KXSHIBAD-25OCT2715-T0.000026999","price":2,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0200","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":10,"open_interest":10,"dollar_volume":5,"dollar_open_interest":5,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"d91ce352-53f7-4daf-8ede-e251e8e7bb2f","market_ticker":"KXBTCD-25OCT2715-T114749.99","price":97,"yes_bid":97,"yes_ask":100,"price_dollars":"0.9700","yes_bid_dollars":"0.9700","yes_ask_dollars":"1.0000","volume":10,"open_interest":10,"dollar_volume":5,"dollar_open_interest":5,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"1e69dd9f-ad11-4bbc-8d0e-dc144fbc4d28","market_ticker":"KXAVAXD-25OCT2715-T10.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105881}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c1fcdad0-27d4-4961-80bb-2bebd9a063cc","market_ticker":"KXAVAX-25OCT2715-B5.25","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105894}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"91b01fc4-3df2-4c4e-b32b-5c9f73bc5d43","market_ticker":"KXSHIBA-25OCT2715-T-0.000008000","price":98,"yes_bid":0,"yes_ask":99,"price_dollars":"0.9800","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":14,"open_interest":14,"dollar_volume":7,"dollar_open_interest":7,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"10f5bf02-2443-4e70-ab93-36604d4e1559","market_ticker":"KXLTC-25OCT2715-B122.5","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"77636159-e42c-4e5d-a683-67b4f6a908c3","market_ticker":"KXXRPD-25OCT2715-T2.3199","price":1,"yes_bid":48,"yes_ask":78,"price_dollars":"0.0100","yes_bid_dollars":"0.4800","yes_ask_dollars":"0.7800","volume":20,"open_interest":20,"dollar_volume":10,"dollar_open_interest":10,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"55b36633-8f88-445f-a200-096890c8a482","market_ticker":"KXSHIBAD-25OCT2715-T0.000025499","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"d258d053-624b-4392-94dc-b7169dd56439","market_ticker":"KXXRPD-25OCT2715-T3.0599","price":0,"yes_bid":1,"yes_ask":11,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.1100","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"4e3cee22-4822-4922-bce0-da1113de1dd3","market_ticker":"KXDOGE-25OCT2715-B0.032","price":0,"yes_bid":1,"yes_ask":64,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.6400","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"3bc09fda-143b-498b-b7df-a71b6cd306a9","market_ticker":"KXAVAX-25OCT2715-B6.25","price":1,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0100","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":16,"open_interest":16,"dollar_volume":8,"dollar_open_interest":8,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"dbc8ca28-7771-410a-aa62-b39f1c858395","market_ticker":"KXLTC-25OCT2715-B87.5","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105858}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"0d2d41f0-1a5a-4def-976a-7d75405d887f","market_ticker":"KXBTC-25OCT2715-B120875","price":0,"yes_bid":12,"yes_ask":48,"price_dollars":"0.0000","yes_bid_dollars":"0.1200","yes_ask_dollars":"0.4800","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"d4318623-bb11-4546-a31a-9858523a21ec","market_ticker":"KXSHIBAD-25OCT2715-T-0.000004501","price":1,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0100","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":6,"open_interest":6,"dollar_volume":3,"dollar_open_interest":3,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"4aa7ccc0-4be0-4816-8318-159a3ecc4fbf","market_ticker":"KXXRPD-25OCT2715-T1.8999","price":0,"yes_bid":1,"yes_ask":14,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.1400","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"0a44d5e3-a78c-4a4e-84c8-c0dc2aa10144","market_ticker":"KXLTC-25OCT2715-B83.5","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105903}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"3ff86324-4e12-4778-a09a-1c9eda18c197","market_ticker":"KXBTC-25OCT2715-B108125","price":0,"yes_bid":97,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.9700","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105849}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"3a5de194-fbbc-40fb-8359-3ad82031e20f","market_ticker":"KXBTCD-25OCT2715-T114499.99","price":97,"yes_bid":97,"yes_ask":99,"price_dollars":"0.9700","yes_bid_dollars":"0.9700","yes_ask_dollars":"0.9900","volume":32,"open_interest":32,"dollar_volume":16,"dollar_open_interest":16,"ts":1761588463,"Clock":1052105849}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"177d199e-b2de-4c33-a0dc-ffe9464c5faf","market_ticker":"KXAVAXD-25OCT2715-T8.4999","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"da85f5c5-9a9c-42d2-be58-50e25720ee66","market_ticker":"KXBTCD-25OCT2715-T112499.99","price":96,"yes_bid":96,"yes_ask":100,"price_dollars":"0.9600","yes_bid_dollars":"0.9600","yes_ask_dollars":"1.0000","volume":8,"open_interest":8,"dollar_volume":4,"dollar_open_interest":4,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"2cab5784-1fed-41cf-8377-77cf3eb1a7c3","market_ticker":"KXDOGED-25OCT2715-T0.0849999","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"26ef976b-2eb7-4e28-b24a-cd493dd39baa","market_ticker":"KXAVAXD-25OCT2715-T11.4999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105845}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"49949c36-b191-49f5-a7df-f7a5b5eb58c7","market_ticker":"KXSHIBAD-25OCT2715-T0.000017999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"de77dae8-2eb6-4098-bb7d-1fe216da9c33","market_ticker":"KXDOGE-25OCT2715-B0.047","price":0,"yes_bid":53,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.5300","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"31e03be7-3d7f-4c42-ad76-1fa380c60227","market_ticker":"KXAVAX-25OCT2715-B30.75","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105913}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"48a37b01-c0ce-4d2e-b45c-8337297c413f","market_ticker":"KXBTC-25OCT2715-B116375","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"910ec835-1660-4323-89a5-ec75477cb471","market_ticker":"KXAVAXD-25OCT2715-T13.4999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105807}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"4183f17d-d94c-4b31-b850-9f787143edcf","market_ticker":"KXDOGED-25OCT2715-T0.1899999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"fb93236a-b999-491d-976e-fd15333de3a3","market_ticker":"KXAVAXD-25OCT2715-T15.9999","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"64daa83a-805b-4eda-8df4-f08b0637d130","market_ticker":"KXLTC-25OCT2715-B88.5","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105852}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"edec14c6-0654-4532-ab63-c425ad781e66","market_ticker":"KXAVAX-25OCT2715-B31.25","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105876}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"46a224fb-006d-4436-ba60-49d901692335","market_ticker":"KXWTI-25OCT27-T55","price":65,"yes_bid":65,"yes_ask":100,"price_dollars":"0.6500","yes_bid_dollars":"0.6500","yes_ask_dollars":"1.0000","volume":100,"open_interest":100,"dollar_volume":50,"dollar_open_interest":50,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"3fdf9e45-bb6f-4a87-8646-8a98afab07b7","market_ticker":"KXXRP-25OCT2715-B3.0099500","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"e907bec5-4408-447c-a096-7918aa3501e3","market_ticker":"KXBTC-25OCT2715-B115625","price":0,"yes_bid":25,"yes_ask":94,"price_dollars":"0.0000","yes_bid_dollars":"0.2500","yes_ask_dollars":"0.9400","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"3efb57e4-f942-4f53-9245-164bcc245430","market_ticker":"KXAVAXD-25OCT2715-T23.9999","price":1,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0100","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":20,"open_interest":20,"dollar_volume":10,"dollar_open_interest":10,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"a5d22871-74f7-4a82-9a96-e986ee15d1fb","market_ticker":"KXBTCD-25OCT2715-T109999.99","price":95,"yes_bid":95,"yes_ask":100,"price_dollars":"0.9500","yes_bid_dollars":"0.9500","yes_ask_dollars":"1.0000","volume":14,"open_interest":14,"dollar_volume":7,"dollar_open_interest":7,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"47292ef6-834d-49a0-8e80-192d42317bd4","market_ticker":"KXLTC-25OCT2715-B86.5","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105868}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c8e3d2c8-340c-490e-9b15-504b712a34ac","market_ticker":"KXDOGED-25OCT2715-T0.3299999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105849}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"690f27b9-dc96-4dc2-bbee-5ee3e3a7e12f","market_ticker":"KXWTI-25OCT27-B55.5","price":55,"yes_bid":55,"yes_ask":99,"price_dollars":"0.5500","yes_bid_dollars":"0.5500","yes_ask_dollars":"0.9900","volume":60,"open_interest":60,"dollar_volume":30,"dollar_open_interest":30,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"23480c84-9ada-4710-b9c3-cbb12f4de195","market_ticker":"KXXRP-25OCT2715-B2.5699500","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"be274d75-642a-4c67-aee4-ebce75292c20","market_ticker":"KXXLM-25OCT2715-B0.315","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"5b9b47ea-2076-4bac-b7ca-b2602f7d6fe8","market_ticker":"KXBTCD-25OCT2715-T116749.99","price":5,"yes_bid":0,"yes_ask":5,"price_dollars":"0.0500","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.0500","volume":218,"open_interest":218,"dollar_volume":109,"dollar_open_interest":109,"ts":1761588463,"Clock":1052105815}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"6b8776ea-d199-4d44-9540-152913ab2f29","market_ticker":"KXLTCD-25OCT2715-T89.9999","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"67ba3f67-92f7-4b8b-bbab-7c159b5e7584","market_ticker":"KXLTCD-25OCT2715-T112.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"801b90fd-8911-4dfe-b250-252eed5e3309","market_ticker":"KXSHIBAD-25OCT2715-T-0.000000501","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"d90831a6-511c-4ed0-a030-67bf85cc2d33","market_ticker":"KXLTC-25OCT2715-B85.5","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"89a97bbc-a162-40cb-bd7e-b9379765bdb4","market_ticker":"KXDOGED-25OCT2715-T0.0999999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105849}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"2e060450-72ee-401a-9572-c2c4ae2acba2","market_ticker":"KXDOGED-25OCT2715-T0.2349999","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"655b0d5b-225d-4e25-9130-75ac7701580e","market_ticker":"KXSHIBA-25OCT2715-B0.0000122","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"58f4e0d7-00bb-494e-b702-1c73f45e7a37","market_ticker":"KXHEISMAN-26-CKLU","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105849}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"e0d77e49-8984-4307-8233-bdf062437936","market_ticker":"KXDOGED-25OCT2715-T0.3649999","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105900}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"48837414-9055-4a56-8126-3d5fe8b77478","market_ticker":"KXDOGED-25OCT2715-T0.2599999","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"3a77a5f4-fd88-471e-a87c-079591335acd","market_ticker":"KXXRPD-25OCT2715-T2.9999","price":0,"yes_bid":29,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.2900","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"6b017bf6-7141-4f01-ac16-7e07742216d3","market_ticker":"KXRTANNIVERSARY-75","price":0,"yes_bid":4,"yes_ask":6,"price_dollars":"0.0000","yes_bid_dollars":"0.0400","yes_ask_dollars":"0.0600","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105828}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"4192668a-b8e3-47c9-93aa-fbd87b49ae39","market_ticker":"KXXLM-25OCT2715-B0.525","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"b45010e7-d3a6-4247-8cda-f402971a1bcb","market_ticker":"KXRTANNIVERSARY-90","price":0,"yes_bid":0,"yes_ask":62,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.6200","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105914}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"46484225-a5b8-4662-84ed-cc94b694b8b3","market_ticker":"KXXRPD-25OCT2715-T2.7199","price":0,"yes_bid":63,"yes_ask":82,"price_dollars":"0.0000","yes_bid_dollars":"0.6300","yes_ask_dollars":"0.8200","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"2425adb3-20eb-46d9-9aa9-bce14993a2de","market_ticker":"KXBTCD-25OCT2715-T116249.99","price":6,"yes_bid":4,"yes_ask":6,"price_dollars":"0.0600","yes_bid_dollars":"0.0400","yes_ask_dollars":"0.0600","volume":30,"open_interest":26,"dollar_volume":15,"dollar_open_interest":13,"ts":1761588463,"Clock":1052105907}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"44e833f2-5a74-4fc4-867e-53e605ff64f9","market_ticker":"KXAVAX-25OCT2715-B34.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105908}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c882d4a5-7e6e-42da-b87c-3550ec17feb4","market_ticker":"KXLTC-25OCT2715-B89.5","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105847}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"3d5589d7-814f-4117-80b7-ac770c161a06","market_ticker":"KXDOGED-25OCT2715-T0.2749999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"8fe78e9f-0028-4be0-bbe5-623f2949441c","market_ticker":"KXBTCD-25OCT2715-T113749.99","price":96,"yes_bid":96,"yes_ask":100,"price_dollars":"0.9600","yes_bid_dollars":"0.9600","yes_ask_dollars":"1.0000","volume":12,"open_interest":12,"dollar_volume":6,"dollar_open_interest":6,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"4525e8d6-c835-4f67-a19a-ee8abcd46009","market_ticker":"KXXLM-25OCT2715-B0.245","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c607ce9b-b2be-4b2c-82cd-d0cefca88c1a","market_ticker":"KXAVAX-25OCT2715-B33.75","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"ab93b4d9-6c27-448b-9fbc-f95b58216eee","market_ticker":"KXBTCD-25OCT2715-T116499.99","price":4,"yes_bid":0,"yes_ask":4,"price_dollars":"0.0400","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.0400","volume":230,"open_interest":230,"dollar_volume":115,"dollar_open_interest":115,"ts":1761588463,"Clock":1052105891}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"f1d88765-a9e1-496a-99aa-ef7ddc7e55da","market_ticker":"KXAVAX-25OCT2715-B31.75","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105851}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"fde0e011-87ec-48df-b4a1-0059ad02f656","market_ticker":"KXDOGED-25OCT2715-T0.3699999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"1dc410d8-21a8-458c-895c-f6c17fe4f2cd","market_ticker":"KXDOGE-25OCT2715-B0.297","price":0,"yes_bid":46,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.4600","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c7f583c4-aafe-4e47-97a6-8a0b38579ff4","market_ticker":"KXBTC-25OCT2715-B116125","price":0,"yes_bid":1,"yes_ask":22,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.2200","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105849}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"139066d3-bac7-4c69-8ba9-bdee82153a36","market_ticker":"KXWTI-25OCT27-B61.5","price":25,"yes_bid":25,"yes_ask":44,"price_dollars":"0.2500","yes_bid_dollars":"0.2500","yes_ask_dollars":"0.4400","volume":100,"open_interest":100,"dollar_volume":50,"dollar_open_interest":50,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"4b13628a-4371-4978-b8aa-0d1a48663e1f","market_ticker":"KXSHIBA-25OCT2715-B0.0000137","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c1f46fdd-d095-44a6-9b69-a8ecda48142a","market_ticker":"KXXLM-25OCT2715-B0.005","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105849}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"2c1f841b-4780-4912-99ee-ba40413190eb","market_ticker":"KXAVAX-25OCT2715-T38.4999","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"279583dd-e91b-4110-965a-f86bc3b2dd1a","market_ticker":"KXAVAXD-25OCT2715-T10.4999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105893}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"88f6d932-d2a7-475b-8fa0-eea8721f1ba7","market_ticker":"KXBTC-25OCT2715-B104125","price":0,"yes_bid":84,"yes_ask":92,"price_dollars":"0.0000","yes_bid_dollars":"0.8400","yes_ask_dollars":"0.9200","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105902}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"3a34e2cf-7188-4c7d-bdcf-26d72dd10344","market_ticker":"KXLTC-25OCT2715-B84.5","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105887}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"5dcfff95-8fd7-48a9-a60c-5c543d0f6d3b","market_ticker":"KXAVAX-25OCT2715-B7.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105812}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"72c78ace-fbf3-4dc1-9776-2cfdb453a551","market_ticker":"KXAVAX-25OCT2715-B36.25","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105816}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"bfc4ad7c-2041-4d98-bb7c-3bd0dd2cdddd","market_ticker":"KXXLM-25OCT2715-B0.015","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105831}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"3a580297-34d1-4fa3-8963-ad0f2f825853","market_ticker":"KXXRPD-25OCT2715-T2.4399","price":0,"yes_bid":1,"yes_ask":12,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.1200","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"d54d0b32-be6c-4c74-82d9-26e29ec0f5ae","market_ticker":"KXLTCD-25OCT2715-T87.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588463,"Clock":1052105867}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"6fba0d99-8efb-435c-af4d-e7258f841cb4","market_ticker":"KXLTC-25OCT2715-B76.5","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105984}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"a0714318-87e1-4d8a-b9d2-4f17cbd823aa","market_ticker":"KXLTCD-25OCT2715-T90.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105958}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c6c1378e-5ba7-4650-9484-1073b12f6d7f","market_ticker":"KXSHIBA-25OCT2715-B0.0000092","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105969}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c8e3d2c8-340c-490e-9b15-504b712a34ac","market_ticker":"KXDOGED-25OCT2715-T0.3299999","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105969}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"a5757976-f627-4bdb-a532-849fe016f57d","market_ticker":"KXSHIBAD-25OCT2715-T0.000022999","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105969}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"41ad569b-33b6-4ff2-bcb0-d1c4ea223d27","market_ticker":"KXAVAX-25OCT2715-B4.75","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105973}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"91d3e8d0-0093-42e4-9289-7bfea3d12ed1","market_ticker":"KXAVAX-25OCT2715-B35.25","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105969}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"b4cceabb-c938-4292-bf94-68d1fe207780","market_ticker":"KXLTCD-25OCT2715-T128.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105969}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"47c3bc1a-2819-4225-bd79-d3c22c6f6202","market_ticker":"KXSHIBAD-25OCT2715-T0.000010499","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105969}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"78cbd755-bdc2-46a6-806b-3f3e73a718e4","market_ticker":"KXLTC-25OCT2715-B80.5","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105943}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"5638a7c1-fd57-4b2f-8d5a-d067e791ae2e","market_ticker":"KXLTC-25OCT2715-B78.5","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105965}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"63eb3eff-a842-409b-b692-86be485c4e11","market_ticker":"KXDOGED-25OCT2715-T0.0149999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105969}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"fb9aabfb-c1ee-48f9-9794-c3644c47dd49","market_ticker":"KXDOGE-25OCT2715-B0.182","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105969}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"58faee28-c90a-450d-b7a7-06c7acc07fe1","market_ticker":"KXDOGED-25OCT2715-T0.3599999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105932}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"e3849531-69e8-4986-b9e0-760425b5f437","market_ticker":"KXHEISMAN-26-DALL","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105958}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"494d9fa5-caf3-4e68-b71a-b2b4280ec11a","market_ticker":"KXBTCD-25OCT2715-T109249.99","price":95,"yes_bid":95,"yes_ask":100,"price_dollars":"0.9500","yes_bid_dollars":"0.9500","yes_ask_dollars":"1.0000","volume":22,"open_interest":22,"dollar_volume":11,"dollar_open_interest":11,"ts":1761588464,"Clock":1052105969}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"007a11de-e2d2-41eb-9319-2654f94d5fc6","market_ticker":"KXLTC-25OCT2715-B77.5","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105972}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"a1a00593-2dc6-4c57-aaa5-f5d80e163696","market_ticker":"KXDOGE-25OCT2715-B0.012","price":0,"yes_bid":1,"yes_ask":7,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.0700","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105958}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"6d9d177c-61f7-441c-ae6b-87da275bb10d","market_ticker":"KXXLM-25OCT2715-B0.355","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105969}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"dcda473f-52f3-466e-bf18-5d0e457b35f5","market_ticker":"KXDOGED-25OCT2715-T0.3449999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052106006}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"ad84e7dd-6fd3-4ee7-ad0d-fc22aaf71db2","market_ticker":"KXBTCD-25OCT2715-T115999.99","price":12,"yes_bid":12,"yes_ask":14,"price_dollars":"0.1200","yes_bid_dollars":"0.1200","yes_ask_dollars":"0.1400","volume":24,"open_interest":20,"dollar_volume":12,"dollar_open_interest":10,"ts":1761588464,"Clock":1052106012}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"cc2e34c7-c5c0-4333-94b4-75dcd6f5162d","market_ticker":"KXDOGED-25OCT2715-T0.3349999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105988}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"b45010e7-d3a6-4247-8cda-f402971a1bcb","market_ticker":"KXRTANNIVERSARY-90","price":0,"yes_bid":0,"yes_ask":1,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.0100","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105963}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"eeadefb7-6d2b-4f9b-8058-4376999db0c4","market_ticker":"KXAVAX-25OCT2715-B30.25","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105950}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"bd4b9a9c-4d61-451d-949c-f8d426407c46","market_ticker":"KXLTC-25OCT2715-B73.5","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052106014}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"bcc1859f-70a8-4d42-a1e1-3e0f52cf5bc6","market_ticker":"KXWTI-25OCT27-B58.5","price":39,"yes_bid":39,"yes_ask":99,"price_dollars":"0.3900","yes_bid_dollars":"0.3900","yes_ask_dollars":"0.9900","volume":20,"open_interest":20,"dollar_volume":10,"dollar_open_interest":10,"ts":1761588464,"Clock":1052105969}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"1e69dd9f-ad11-4bbc-8d0e-dc144fbc4d28","market_ticker":"KXAVAXD-25OCT2715-T10.9999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105985}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c08d7bfd-9deb-49d8-bb49-4c249fd7f8cd","market_ticker":"KXSHIBA-25OCT2715-B0.0000257","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105969}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"2217c100-ae65-4e99-a726-f9c8f8723a7e","market_ticker":"KXDOGED-25OCT2715-T0.3549999","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052106009}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"82306cf0-0e86-4045-9707-e99fbe543af9","market_ticker":"KXXRPD-25OCT2715-T2.9199","price":0,"yes_bid":52,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.5200","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105969}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"b0bc7f4a-9d6c-4044-9087-50a31622a750","market_ticker":"KXLTC-25OCT2715-B74.5","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052106005}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"2425adb3-20eb-46d9-9aa9-bce14993a2de","market_ticker":"KXBTCD-25OCT2715-T116249.99","price":6,"yes_bid":4,"yes_ask":6,"price_dollars":"0.0600","yes_bid_dollars":"0.0400","yes_ask_dollars":"0.0600","volume":130,"open_interest":126,"dollar_volume":65,"dollar_open_interest":63,"ts":1761588464,"Clock":1052105991}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"8ee683bd-2c2d-48f1-8fb1-c9faac3ec25b","market_ticker":"KXAVAX-25OCT2715-B29.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052106011}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"f4a01d7c-2cdc-4a2a-be33-3ee009efb876","market_ticker":"KXXRPD-25OCT2715-T2.1599","price":0,"yes_bid":1,"yes_ask":19,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.1900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105969}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"fde0e011-87ec-48df-b4a1-0059ad02f656","market_ticker":"KXDOGED-25OCT2715-T0.3699999","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105916}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"de77dae8-2eb6-4098-bb7d-1fe216da9c33","market_ticker":"KXDOGE-25OCT2715-B0.047","price":0,"yes_bid":53,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.5300","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105958}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"1751c088-c210-4191-b15d-41b78c5c806e","market_ticker":"KXAVAX-25OCT2715-B8.75","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105996}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c607ce9b-b2be-4b2c-82cd-d0cefca88c1a","market_ticker":"KXAVAX-25OCT2715-B33.75","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105962}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"b4307670-5c12-4ab9-98f7-a75c7e5d03aa","market_ticker":"KXAVAX-25OCT2715-B38.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105997}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"fb38cca9-067b-48e9-9c4d-18143e8e41c4","market_ticker":"KXDOGED-25OCT2715-T0.1149999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105969}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"2abd0415-c14e-4b7c-ab4b-a3878179cd9e","market_ticker":"KXXRP-25OCT2715-B2.8099500","price":0,"yes_bid":1,"yes_ask":20,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.2000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105969}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"8413165a-89a0-4414-a379-95576fce1448","market_ticker":"KXAVAXD-25OCT2715-T4.4999","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105969}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"06b5d122-b736-40ae-8bdb-6a55f3f4a73b","market_ticker":"KXAVAX-25OCT2715-B32.75","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105971}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"279583dd-e91b-4110-965a-f86bc3b2dd1a","market_ticker":"KXAVAXD-25OCT2715-T10.4999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105983}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"01006f5a-2a86-4b23-a649-c6a5e3e1c7dc","market_ticker":"KXLTC-25OCT2715-B79.5","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105954}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"3cfb405b-afa7-4724-b7ab-68e56ad7bac8","market_ticker":"KXXLM-25OCT2715-B0.205","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105969}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"73688b55-0327-462e-af15-3b7426373905","market_ticker":"KXSHIBA-25OCT2715-B0.0000227","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105969}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"69c513c7-e928-4230-99c3-c6f6a1cd135e","market_ticker":"KXAVAX-25OCT2715-B29.75","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105980}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"26ef976b-2eb7-4e28-b24a-cd493dd39baa","market_ticker":"KXAVAXD-25OCT2715-T11.4999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105987}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"b7660e4e-c987-4b60-9077-6b4bb56f0020","market_ticker":"KXLTC-25OCT2715-B75.5","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105994}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"212c4603-ecf4-435e-9a9c-b488ec081061","market_ticker":"KXDOGED-25OCT2715-T0.3399999","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052106003}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"6d7eb6a4-6da1-498c-887d-d4f3b2d567d7","market_ticker":"KXBTC-25OCT2715-B119875","price":0,"yes_bid":41,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.4100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105969}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"91128476-3816-4fa4-8ae5-edfcb0a82b5c","market_ticker":"KXXLM-25OCT2715-B0.145","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105958}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"bfaf2b5c-1f47-4c18-9870-656d99ae24af","market_ticker":"KXAVAX-25OCT2715-B4.25","price":1,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0100","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":12,"open_interest":12,"dollar_volume":6,"dollar_open_interest":6,"ts":1761588464,"Clock":1052106004}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"620b047b-c301-4a00-b374-bcd001f0e098","market_ticker":"KXLTCD-25OCT2715-T63.9999","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105969}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"d7920713-936e-41ae-80ca-707cb56986ba","market_ticker":"KXAVAXD-25OCT2715-T1.4999","price":0,"yes_bid":0,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105969}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"b6012068-02ac-4455-ab00-b6dcf4abe37c","market_ticker":"KXAVAX-25OCT2715-B33.25","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052106007}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"e2543e77-12b6-4cc2-85fa-ccf1625ff690","market_ticker":"KXLTC-25OCT2715-B81.5","price":0,"yes_bid":1,"yes_ask":100,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"1.0000","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105930}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"0462d7dc-446b-4db9-b282-3ee97358e60d","market_ticker":"KXDOGE-25OCT2715-B0.137","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105958}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"61b8ffac-3ee9-421f-8253-8da28406d2a1","market_ticker":"KXBTC-25OCT2715-B108375","price":0,"yes_bid":1,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0100","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105969}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"14905389-d1ab-4c0b-8960-c72464a361ae","market_ticker":"KXAVAX-25OCT2715-B3.25","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052106015}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"7f52fcc2-2326-4ba7-b4d3-adaa8de606b5","market_ticker":"KXLTC-25OCT2715-B82.5","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105917}}
+
+Received message: {"type":"ticker","sid":1,"msg":{"market_id":"c1fcdad0-27d4-4961-80bb-2bebd9a063cc","market_ticker":"KXAVAX-25OCT2715-B5.25","price":0,"yes_bid":0,"yes_ask":99,"price_dollars":"0.0000","yes_bid_dollars":"0.0000","yes_ask_dollars":"0.9900","volume":0,"open_interest":0,"dollar_volume":0,"dollar_open_interest":0,"ts":1761588464,"Clock":1052105942}}
+

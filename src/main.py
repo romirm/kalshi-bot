@@ -2,8 +2,11 @@ import os
 from dotenv import load_dotenv
 from cryptography.hazmat.primitives import serialization
 import asyncio
+import sys
 
-from clients import KalshiHttpClient, KalshiWebSocketClient, Environment
+from client import KalshiHttpClient, KalshiWebSocketClient, Environment
+
+sys.stdout = open('output.txt', 'w')
 
 # Load environment variables
 load_dotenv()
