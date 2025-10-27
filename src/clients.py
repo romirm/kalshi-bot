@@ -6,9 +6,7 @@ from datetime import datetime, timedelta
 from enum import Enum
 import json
 
-from requests.exceptions import HTTPError
-
-from cryptography.hazmat.primitives import serialization, hashes
+from cryptography.hazmat.primitives import hashes
 from cryptography.hazmat.primitives.asymmetric import padding, rsa
 from cryptography.exceptions import InvalidSignature
 
