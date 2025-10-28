@@ -6,7 +6,7 @@ import sys
 
 from client import KalshiHttpClient, KalshiWebSocketClient, Environment
 
-sys.stdout = open('output.txt', 'w')
+sys.stdout = open("output.txt", "w")
 
 # Load environment variables
 load_dotenv()
